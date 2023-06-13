@@ -9,5 +9,5 @@ setInterval(function(){
         contador = 1;
     }
 
-}, 2000)
+}, 3000)
 
